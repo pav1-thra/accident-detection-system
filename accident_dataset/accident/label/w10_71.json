@@ -1,0 +1,389 @@
+[
+  {
+    "video": "/data/upload/74/c4a78ee9-%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_%D0%B1%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD7__%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE_%D0%B2_Clipchamp.mp4",
+    "id": 103,
+    "box": [
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 7.296875000000004,
+            "y": 47.333333333333336,
+            "width": 3.65625,
+            "height": 6.333333333333329,
+            "time": 0.06666666666666667
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 46.859375,
+            "y": 72.66666666666666,
+            "width": 5.625,
+            "height": 10.833333333333334,
+            "time": 0.06666666666666667
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 80.796875,
+            "y": 87,
+            "width": 5.812499999999989,
+            "height": 8.999999999999995,
+            "time": 0.06666666666666667
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 90.171875,
+            "y": 37.5,
+            "width": 3.4687499999999893,
+            "height": 5.666666666666669,
+            "time": 0.06666666666666667
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 50.79687500000001,
+            "y": 18.666666666666668,
+            "width": 3.28125,
+            "height": 4.833333333333331,
+            "time": 0.06666666666666667
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 61.671875,
+            "y": 34.5,
+            "width": 2.34375,
+            "height": 4.166666666666666,
+            "time": 0.06666666666666667
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 41.046875,
+            "y": 30.833333333333336,
+            "width": 2.6250000000000018,
+            "height": 4.833333333333335,
+            "time": 0.06666666666666667
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 34.671875,
+            "y": 36,
+            "width": 2.0625000000000027,
+            "height": 3.1666666666666683,
+            "time": 0.06666666666666667
+          }
+        ],
+        "labels": [
+          "traffic sign"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 39.171875,
+            "y": 42.99999999999999,
+            "width": 9.843749999999996,
+            "height": 9.66666666666667,
+            "time": 0.06666666666666667
+          },
+          {
+            "x": 32.70311023043686,
+            "y": 44.49999999999998,
+            "width": 11.062502782671402,
+            "height": 11.333333333333245,
+            "rotation": 0,
+            "frame": 13,
+            "enabled": true,
+            "time": 0.8666666666666667
+          },
+          {
+            "x": 25.85934460466731,
+            "y": 45.999999999999986,
+            "width": 11.062502782671402,
+            "height": 11.333333333333245,
+            "rotation": 0,
+            "frame": 25,
+            "enabled": true,
+            "time": 1.6666666666666667
+          },
+          {
+            "x": 22.48433689880834,
+            "y": 46.66666666666663,
+            "width": 11.062502782671402,
+            "height": 11.333333333333245,
+            "rotation": 0,
+            "frame": 32,
+            "enabled": true,
+            "time": 2.1333333333333333
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 55.48437500000001,
+            "y": 34.49999999999999,
+            "width": 5.625,
+            "height": 9.66666666666667,
+            "time": 0.06666666666666667
+          },
+          {
+            "x": 50.42186344121144,
+            "y": 38.66666666666666,
+            "width": 6.56250214051652,
+            "height": 10.166666666666591,
+            "rotation": 0,
+            "frame": 13,
+            "enabled": true,
+            "time": 0.8666666666666667
+          },
+          {
+            "x": 43.01559653113175,
+            "y": 44.8333333333333,
+            "width": 8.625006849652836,
+            "height": 11.833333333333051,
+            "rotation": 0,
+            "frame": 25,
+            "enabled": true,
+            "time": 1.6666666666666667
+          },
+          {
+            "x": 38.23433561449812,
+            "y": 49.166666666666615,
+            "width": 8.812507277756175,
+            "height": 12.499999999999577,
+            "rotation": 0,
+            "frame": 32,
+            "enabled": true,
+            "time": 2.1333333333333333
+          }
+        ],
+        "labels": [
+          "crashed car"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 62.796874999999844,
+            "y": 31.66666666666667,
+            "width": 5.999999999999998,
+            "height": 8.499999999999954,
+            "time": 0.06666666666666667
+          },
+          {
+            "x": 56.89061151474664,
+            "y": 37.333333333333336,
+            "width": 5.999999999999998,
+            "height": 8.499999999999954,
+            "rotation": 0,
+            "frame": 13,
+            "enabled": true,
+            "time": 0.8666666666666667
+          },
+          {
+            "x": 52.3906012402679,
+            "y": 40.83333333333333,
+            "width": 6.656251498361569,
+            "height": 10.166666666666494,
+            "rotation": 0,
+            "frame": 25,
+            "enabled": true,
+            "time": 1.6666666666666667
+          },
+          {
+            "x": 49.10934374846035,
+            "y": 43.16666666666665,
+            "width": 8.15625492318797,
+            "height": 9.66666666666636,
+            "rotation": 0,
+            "frame": 32,
+            "enabled": true,
+            "time": 2.1333333333333333
+          }
+        ],
+        "labels": [
+          "crashed car"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 51.546875,
+            "y": 63.33333333333333,
+            "width": 13.3125,
+            "height": 15.666666666666659,
+            "time": 0.06666666666666667
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 88.85937499999991,
+            "y": 7.666666666666663,
+            "width": 4.49999999999999,
+            "height": 4.333333333333334,
+            "time": 0.06666666666666667
+          },
+          {
+            "x": 84.92186600983104,
+            "y": 10.166666666666663,
+            "width": 4.499999999999983,
+            "height": 5.666666666666653,
+            "rotation": 0,
+            "frame": 21,
+            "enabled": true,
+            "time": 1.4
+          },
+          {
+            "x": 82.0156093742303,
+            "y": 11.666666666666659,
+            "width": 4.499999999999983,
+            "height": 5.666666666666653,
+            "rotation": 0,
+            "frame": 32,
+            "enabled": true,
+            "time": 2.1333333333333333
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      },
+      {
+        "framesCount": 33,
+        "duration": 2.159456,
+        "sequence": [
+          {
+            "frame": 1,
+            "enabled": true,
+            "rotation": 0,
+            "x": 95.79687499999991,
+            "y": 4.8333333333333295,
+            "width": 4.031250000000006,
+            "height": 4.5000000000000036,
+            "time": 0.06666666666666667
+          }
+        ],
+        "labels": [
+          "car"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 89,
+    "created_at": "2023-04-29T06:14:54.772034Z",
+    "updated_at": "2023-04-29T06:14:54.772034Z",
+    "lead_time": 165.571
+  }
+]
