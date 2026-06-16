@@ -1,50 +1,61 @@
-Traffic Accident Detection System
+# 🚨 Traffic Accident Detection System
 
-An AI-powered web application that detects road accidents from traffic images using YOLOv8 and Computer Vision techniques. The system automates accident identification and supports intelligent traffic monitoring systems.
+An AI-powered web application that detects road accidents from traffic images using YOLOv8 and Computer Vision techniques.
 
-Features
-Detects accidents from uploaded traffic images
-YOLOv8-based object detection model
-Flask web application
-Simple and responsive user interface
-Fast prediction results
-AI-powered traffic scene analysis
-Tech Stack
-Python
-Flask
-YOLOv8
-OpenCV
-HTML
-CSS
-How It Works
-Upload a traffic image
-The image is processed by the trained YOLOv8 model
-The system analyzes accident-related patterns
-The result is displayed as:
-Accident Detected
-No Accident Detected
-Project Structure
-project/
-├── static/
-├── templates/
-├── app.py
-├── best.pt
-└── README.md
-Installation
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-pip install -r requirements.txt
+## 🔄 System Workflow
+
+```mermaid
+flowchart TD
+    A[Upload Traffic Image] --> B[Image Preprocessing]
+    B --> C[YOLOv8 Model]
+    C --> D[Feature Extraction]
+    D --> E{Accident Detected?}
+
+    E -->|Yes| F[Display Accident Detected]
+    E -->|No| G[Display No Accident Detected]
+
+    F --> H[Show Annotated Image]
+    G --> H
+```
+
+## 🛠️ Tech Stack
+
+- Python
+- Flask
+- YOLOv8
+- OpenCV
+- HTML
+- CSS
+
+## ✨ Features
+
+- AI-based accident detection
+- Traffic image analysis
+- Real-time prediction
+- User-friendly web interface
+- Annotated accident detection results
+
+## 🚀 Project Flow
+
+```mermaid
+flowchart LR
+    Dataset --> Training
+    Training --> YOLOv8_Model
+    YOLOv8_Model --> Flask_App
+    Flask_App --> User_Interface
+    User_Interface --> Prediction_Result
+```
+
+## ▶️ Run Project
+
+```bash
 python app.py
-Future Improvements
-Real-time CCTV accident detection
-Emergency alert integration
-GPS-based accident location tracking
-Cloud deployment
-Home Page
-Prediction Page
-Result Page
-Authors
-Pavithra Prem
-Neelima B
-Renjima Rajeev
-Vinitha PJ
+```
+
+## 👨‍💻 Authors
+
+- Pavithra Prem
+- Neelima B
+- Renjima Rajeev
+- Vinitha PJ
+
